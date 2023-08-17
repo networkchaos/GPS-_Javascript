@@ -1,0 +1,92 @@
+body{
+    margin:0 ;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size:25px;
+font-family: Arial;
+
+
+}
+.verticalContainer{
+    display: flex;
+flex-direction: column;
+
+}
+.horizontalContainer{
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+#instructions{
+margin-top: 20px;
+color: grey;
+font-size: 15px;
+
+}
+
+
+#info{
+
+color: blue;
+
+
+
+}
+.locFont{
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+text-align: left;
+
+
+
+}
+
+
+
+
+
+button{
+font-weight: bold;
+color: blue;
+font-size: 45px;
+width: 150px;
+height: 150px;
+border: 2px solid blue;
+cursor: pointer;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
